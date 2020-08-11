@@ -1,1 +1,2 @@
-Sample text file for third commit
+What is GIT?
+Git - Distributed version control system
