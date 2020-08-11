@@ -1,2 +1,12 @@
 What is GIT?
 Git - Distributed version control system
+Features:
+- Free and open source
+- Speed
+- Scalable
+- Reliable
+- Secure
+- Economical
+- Easy Branching
+
+
